@@ -259,12 +259,3 @@ print("Pesos resultantes",theta)
 print("El costo resultante es:",trainingCost[len(trainingCost)-1])
 print("-----------------Test results-----------------------")
 print(f"El costo resultante es: {computeCost(test_x,test_y,theta)}")   
-
-
-
-
-
-
-
-
-
