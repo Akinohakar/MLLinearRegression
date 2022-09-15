@@ -48,3 +48,6 @@ Se dividio el dataset en 2,el training set y el validation set,se avaluarion los
 
 En el training set se obtubo un costo de: 2135.35352970866 <br/>
 En el validation set se obtuvo un costo de: :2433.690951839321 <br/>
+
+### Prediciones
+
