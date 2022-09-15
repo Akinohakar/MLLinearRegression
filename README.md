@@ -49,5 +49,14 @@ Se dividio el dataset en 2,el training set y el validation set,se avaluarion los
 En el training set se obtubo un costo de: 2135.35352970866 <br/>
 En el validation set se obtuvo un costo de: :2433.690951839321 <br/>
 
-### Prediciones
+### Predicionon prueba
+
+Predecir el consumo por milla de un coche con:
+1. cylinders 8
+2. displacement 307
+3. horsepower 130
+4. weight 3504
+5. displacement 12
+
+Valor de prediccion de millas por galon 87.0676774982622 valor real 15 
 
