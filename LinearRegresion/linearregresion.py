@@ -1,16 +1,6 @@
 #Momento de Retroalimentacion Alan Eduardo Aquino Rosas
 
-#Se implemento linear regresion
 
-#En este caso se trabajo sobre un dataset que incluye caracteristicas de hogares de las casas y sus respectivos costos de renta
-#En este ejemplo debido a que es un primer acercamiento a la base de datos para no complicar el processo de preprocesamiento de datos se tomaron 3 caracteristicas basicas del dataset
-
-#Las caracteristicas son:
-
-#BHK Numero de Habitaciones,Espacios y cocinas
-#Size Tamano  del hogar en feets
-#Bathroom Numero de banos
-#La variable dependiente que se quire predecir o la "y gorrito" es el precio de renta 
 
 
 #-----------------LIBRARIES-------------------------------
